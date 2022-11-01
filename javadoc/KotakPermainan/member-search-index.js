@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"KotakPermainan","l":"contains(int)"},{"p":"<Unnamed>","c":"KotakPermainan","l":"KotakPermainan(int)","u":"%3Cinit%3E(int)"}];updateSearchResults();
